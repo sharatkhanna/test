@@ -1,0 +1,206 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bod",
+				"bodyParser"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"g",
+				"gNumber"
+			],
+			[
+				"count",
+				"countToTen"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/shara/Desktop/JavaScript/customerapp/package.json",
+		"/C/Users/shara/Desktop/JavaScript/customerapp/app.js",
+		"/C/Users/shara/Desktop/JavaScript/customerapp/public/test1.html",
+		"/C/Users/shara/Desktop/JavaScript/customerapp/public/index.html",
+		"/C/Users/shara/Desktop/JavaScript/MyFirstJSProject/index.html",
+		"/C/Users/shara/Desktop/JavaScript/MyFirstJSProject/test.js",
+		"/C/Users/shara/Desktop/JavaScript/test.js",
+		"/C/Users/shara/Desktop/JavaScript/MyFirstJSProject/Untitled-1.html",
+		"/C/Users/shara/Desktop/IMAD/webapp/imad-app/ui/index.html",
+		"/C/Users/shara/Desktop/IMAD/web3/imad-app/ui/index.html",
+		"/C/Users/shara/Desktop/JavaScript/MySecondProject/testDOM.html",
+		"/C/Users/shara/Desktop/IMAD/web/myFile.html",
+		"/C/Users/shara/Desktop/JavaScript/MySecondProject/testArray.html",
+		"/C/Users/shara/Desktop/IMAD/imad-app-fc0f308b4e86953c029e4d9ab0503ef4f5ad5c3e.zip",
+		"/C/Users/shara/Desktop/JavaScript/MySecondProject/testDOM",
+		"/C/Users/shara/Desktop/JavaScript/MySecondProject/GuessingGame.html",
+		"/C/Users/shara/Desktop/JavaScript/MyFirstJSProject/MyFirstProgram.html",
+		"/C/Users/shara/Desktop/test2.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
